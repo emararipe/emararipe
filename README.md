@@ -1,3 +1,5 @@
+![Jellyfish gif](https://media.tenor.com/P306f7E_q1YAAAAC/jellyfish-ocean.gif)
+
 # Olá! Meu nome é Emmanuelle 🌼
 
 *Sou uma graduanda em Arquitetura e Urbanismo interessada em Desenvolvimento Web.*
