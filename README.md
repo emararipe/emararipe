@@ -1,4 +1,35 @@
-### Hi there 👋
+# Olá! Meu nome é Emmanuelle 🌼
+
+*Sou uma graduanda em Arquitetura e Urbanismo interessada em Desenvolvimento Web.*
+
+Sou de Teresina, capital do estado do Piauí, no nordeste! Estou no último ano de Arquitetura e Urbanismo na UFPI e, durante o curso, pude ter experiências com desafios envolvendo alguns temas como planejamento urbano, espaços verdes e sustentabilidade. Permeando isso, percebi o potencial da área da tecnologia para resolver problemas, com escalas diferentes e interrelações complexas. 
+
+Por isso, comecei a participar de alguns eventos e workshops de programação e de desenvolvimento de produtos digitais, principalmente voltados para mulheres, como o Django Girls e HackMundo 2.0, do STEM para as Minas. 
+<br/>
+<br/>
+### Então, decidi iniciar uma ･ﾟ✧ ***transição de carreira*** ✧･ﾟ･!
+<br/>
+
+No momento busco trabalhar como *Dev FullStack* e tenho afinidade com Front-End e UI Design.
+
+<br/>
+
+⭐ O começo dessa minha jornada está tendo o suporte do programa de capacitação Desenvolve, realizado pelo Grupo Boticário em parceria com a Alura! Estou participando na trilha de Desenvolvimento FullStack, que abrange as seguintes tecnologias:
+
+<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" /> <img height=50px src="https://raw.githubusercontent.com/emararipe/emararipe/main/icones/expressJS.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          
+
+
+
 
 <!--
 **emararipe/emararipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
