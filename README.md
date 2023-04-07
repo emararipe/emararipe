@@ -26,7 +26,6 @@ No momento busco trabalhar como *Dev FullStack* e tenho afinidade com Front-End 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emararipe&theme=shades-of-purple&hide=stars)](https://github.com/emararipe/github-readme-stats)
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/emararipe/blob/output/github-contribution-grid-snake.svg)
 <!--
 **emararipe/emararipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
