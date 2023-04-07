@@ -14,23 +14,19 @@ No momento busco trabalhar como *Dev FullStack* e tenho afinidade com Front-End 
 
 <br/>
 
-⭐ O começo dessa minha jornada está tendo o suporte do programa de capacitação Desenvolve, realizado pelo Grupo Boticário em parceria com a Alura! Estou participando na trilha de Desenvolvimento FullStack, que abrange as seguintes tecnologias:
+⭐ O começo dessa minha jornada está tendo o suporte do programa de capacitação **Desenvolve**, realizado pelo *Grupo Boticário* em parceria com a *Alura*! Estou participando na trilha de ***Desenvolvimento FullStack***, que abrange as seguintes tecnologias:
+<br/>
+<br/>
 
-<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" /> <img height=50px src="https://raw.githubusercontent.com/emararipe/emararipe/main/icones/expressJS.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          
-          
-          
-            
-          
-          
-          
-          
-          
-          
+<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" /> <img height=50px src="https://raw.githubusercontent.com/emararipe/emararipe/main/icones/expressJS.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
+<br/> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emararipe&theme=shades-of-purple&layout=compact)](https://github.com/emararipe/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emararipe&theme=shades-of-purple&hide=stars)](https://github.com/emararipe/github-readme-stats)
 
 
-
-
+![Snake animation](https://github.com/seu-usuário-aqui/emararipe/blob/output/github-contribution-grid-snake.svg)
 <!--
 **emararipe/emararipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
