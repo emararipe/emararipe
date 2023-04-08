@@ -12,11 +12,11 @@ Portanto, comecei a participar de alguns eventos e workshops de programação e 
 ### Então, decidi iniciar uma ･ﾟ✧ ***transição de carreira*** ✧･ﾟ･!
 <br/>
 
-No momento busco trabalhar como *Dev FullStack* e tenho afinidade com Front-End e UI Design.
+No momento busco trabalhar como *Dev Full-Stack* e tenho afinidade com Front-End e UI Design.
 
 <br/>
 
-⭐ O começo dessa minha jornada está tendo o suporte do programa de capacitação **Desenvolve**, realizado pelo *Grupo Boticário* em parceria com a *Alura*! Estou participando na trilha de ***Desenvolvimento FullStack***, que abrange as seguintes tecnologias:
+⭐ O começo dessa minha jornada está tendo o suporte do programa de capacitação **Desenvolve**, realizado pelo *Grupo Boticário* em parceria com a *Alura*! Estou participando na trilha de ***Desenvolvimento Full-Stack***, que abrange as seguintes tecnologias:
 <br/>
 <br/>
 
