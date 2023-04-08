@@ -4,7 +4,7 @@
 
 *Sou graduanda em Arquitetura e Urbanismo e tenho interesse em Desenvolvimento Web.*
 
-Nasci em Teresina, capital do estado do Piauí, no nordeste! Estou no último ano de Arquitetura e Urbanismo na UFPI e, durante o curso, pude ter experiências com desafios envolvendo temas como planejamento urbano, espaços verdes e sustentabilidade. Permeando isso, percebi o potencial da área da tecnologia para resolver problemas com escalas diferentes e interrelações complexas. 
+Nasci em Teresina, capital do estado do Piauí, no nordeste! Estou no último ano de Arquitetura e Urbanismo na Universidade Federal do Piauí (UFPI). Durante o curso, pude ter experiências com desafios envolvendo temas como planejamento urbano, espaços verdes e sustentabilidade. Permeando isso, percebi o potencial da área da tecnologia para resolver problemas com escalas diferentes e interrelações complexas. 
 
 Portanto, comecei a participar de alguns eventos e workshops de programação e de desenvolvimento de produtos digitais, principalmente voltados para mulheres, como o Django Girls e HackMundo 2.0, do STEM para as Minas. 
 <br/>
